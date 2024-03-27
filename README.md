@@ -2,6 +2,9 @@
 
 This is a barebones project to run jekyll with tailwind on GitHub Pages.
 
+# KNOWN ISSUES
+There is currently an issue with `jekyll-importmap` see the repo `n-at-han-k/jekyll-importmap` for more details.
+
 ## Usage
 This repo is available as a GitHub template.
 
@@ -21,10 +24,3 @@ Don't ask me why, it's the only way, trust me.
 If someone else has a suggestion then contact me.
 
 ![screenshot](assets/img/screenshot1.jpeg)
-
-### Deploying
-1. Go to your repo's Actions page
-2. Select the deployment workflow
-3. Run the workflow
-
-![screenshot](assets/img/screenshot2.jpeg)

@@ -1,11 +1,12 @@
 title: My Site
 description: My very nice site
 
-url: 'https://n-at-han-k.github.io'
-baseurl: '/jekyll-tailwind-blank'
+url: ''
+baseurl: ''
 
 plugins:
   - jekyll-postcss
+  - jekyll-importmap
 
 postcss:
   cache: false
