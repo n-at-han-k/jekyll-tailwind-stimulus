@@ -1,6 +1,6 @@
-# jekyll-tailwind-blank
+# jekyll-tailwind-stimulus
 
-This is a barebones project to run jekyll with tailwind on GitHub Pages.
+This is a barebones project to run jekyll with tailwind and stimulusjs on GitHub Pages.
 
 # KNOWN ISSUES
 There is currently an issue with `jekyll-importmap` see the repo `n-at-han-k/jekyll-importmap` for more details.
@@ -8,13 +8,13 @@ There is currently an issue with `jekyll-importmap` see the repo `n-at-han-k/jek
 ## Usage
 This repo is available as a GitHub template.
 
-Click [use this template](https://github.com/new?template_name=jekyll-tailwind-blank&template_owner=n-at-han-k) at the top of the page to create a duplicate repo.
+Click [use this template](https://github.com/new?template_name=jekyll-tailwind-stimulus&template_owner=n-at-han-k) at the top of the page to create a duplicate repo.
 
-[![use this template](assets/img/button1.png)](https://github.com/new?template_name=jekyll-tailwind-blank&template_owner=n-at-han-k)
+[![use this template](assets/img/button1.png)](https://github.com/new?template_name=jekyll-tailwind-stimulus&template_owner=n-at-han-k)
 
 Alternatively, just clone this repo and start adding your files.
 ```sh
-git clone https://github.com/n-at-han-k/jekyll-tailwind-blank.git
+git clone https://github.com/n-at-han-k/jekyll-tailwind-stimulus.git
 ```
 ## GitHub Pages
 To deploy to GitHub pages you must set deployment source actions to "GitHub Actions", as seen below.
