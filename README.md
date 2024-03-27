@@ -2,9 +2,6 @@
 
 This is a barebones project to run jekyll with tailwind and stimulusjs on GitHub Pages.
 
-# KNOWN ISSUES
-There is currently an issue with `jekyll-importmap` see the repo `n-at-han-k/jekyll-importmap` for more details.
-
 ## Usage
 This repo is available as a GitHub template.
 
