@@ -2,7 +2,7 @@ title: My Site
 description: My very nice site
 
 url: 'n-at-han-k.github.io'
-baseurl: 'jekyll-tailwind-stimulus'
+baseurl: '/jekyll-tailwind-stimulus'
 
 #importmap:
   #devurl: 'http://127.0.0.1:4000/jekyll-tailwind-stimulus'
