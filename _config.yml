@@ -27,6 +27,10 @@ exclude:
   - tailwind.config.js
   - yarn.lock
   - node_modules
+  - package-lock.json
+  - Dockerfile
+  - importmap.rb
+  - yarn-error.log
 
 include:
   - _pages
